@@ -1,0 +1,14 @@
+{
+  "name": "nft-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass ./scss/main.scss ./css/style.css -w"
+  },
+  "author": "Milan Pjevic",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
