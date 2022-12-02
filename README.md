@@ -17,9 +17,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/pjevic/NFT-preview-card-component)
-- Live Site URL: [Add live site URL here](https://pjevic.github.io/NFT-preview-card-component/)
+
+- [Live Site URL](https://pjevic.github.io/NFT-preview-card-component/)
 
 ## Author
 
-- Frontend Mentor - [@pjevic](https://www.frontendmentor.io/profile/pjevic)
+- Milan Pjevic - [@pjevic](https://www.frontendmentor.io/profile/pjevic)
